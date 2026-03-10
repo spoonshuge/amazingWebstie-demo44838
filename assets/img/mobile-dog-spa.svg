@@ -1,0 +1,43 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile dog spa truck illustration</title>
+  <desc id="desc">A colorful truck with bubbles and a smiling dog icon.</desc>
+  <defs>
+    <linearGradient id="truckBody" x1="150" y1="200" x2="730" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f8b8d"/>
+      <stop offset="1" stop-color="#2fa8aa"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="440" y1="185" x2="610" y2="295" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8f2ff"/>
+      <stop offset="1" stop-color="#a5d8ee"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="620" fill="#f8f8f0"/>
+  <ellipse cx="452" cy="508" rx="320" ry="38" fill="#c8d8d8" opacity="0.5"/>
+
+  <rect x="170" y="205" width="540" height="220" rx="52" fill="url(#truckBody)"/>
+  <path d="M710 250h72c21 0 38 17 38 38v137h-110z" fill="#f3a638"/>
+  <rect x="434" y="227" width="173" height="106" rx="16" fill="url(#glass)"/>
+
+  <rect x="214" y="245" width="192" height="130" rx="18" fill="#ffffff" opacity="0.92"/>
+  <circle cx="300" cy="308" r="43" fill="#f3a638"/>
+  <circle cx="284" cy="298" r="12" fill="#132637"/>
+  <circle cx="318" cy="298" r="12" fill="#132637"/>
+  <ellipse cx="301" cy="323" rx="20" ry="13" fill="#132637"/>
+
+  <circle cx="282" cy="277" r="12" fill="#f3a638"/>
+  <circle cx="322" cy="277" r="12" fill="#f3a638"/>
+
+  <circle cx="258" cy="179" r="18" fill="#d8f2ed"/>
+  <circle cx="286" cy="156" r="13" fill="#d8f2ed"/>
+  <circle cx="320" cy="172" r="16" fill="#d8f2ed"/>
+  <circle cx="651" cy="142" r="14" fill="#d8f2ed"/>
+  <circle cx="681" cy="163" r="20" fill="#d8f2ed"/>
+
+  <circle cx="286" cy="450" r="56" fill="#253c4f"/>
+  <circle cx="286" cy="450" r="26" fill="#a4b8c2"/>
+  <circle cx="670" cy="450" r="56" fill="#253c4f"/>
+  <circle cx="670" cy="450" r="26" fill="#a4b8c2"/>
+
+  <rect x="754" y="298" width="23" height="54" rx="8" fill="#1e2d3d"/>
+</svg>

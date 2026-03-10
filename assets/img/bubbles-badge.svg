@@ -1,0 +1,25 @@
+<svg width="520" height="520" viewBox="0 0 520 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bubble badge icon</title>
+  <desc id="desc">Circular badge with paw print and soap bubbles.</desc>
+  <defs>
+    <linearGradient id="ring" x1="84" y1="85" x2="435" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f8b8d"/>
+      <stop offset="1" stop-color="#2fa8aa"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="520" fill="#f8f8f0"/>
+  <circle cx="260" cy="260" r="188" fill="#e9f6f3"/>
+  <circle cx="260" cy="260" r="158" fill="url(#ring)"/>
+  <circle cx="260" cy="260" r="112" fill="#fffef9"/>
+
+  <circle cx="260" cy="278" r="38" fill="#f3a638"/>
+  <circle cx="214" cy="236" r="23" fill="#f3a638"/>
+  <circle cx="247" cy="214" r="20" fill="#f3a638"/>
+  <circle cx="289" cy="214" r="20" fill="#f3a638"/>
+  <circle cx="321" cy="236" r="23" fill="#f3a638"/>
+
+  <circle cx="164" cy="132" r="16" fill="#d8f2ed"/>
+  <circle cx="188" cy="109" r="11" fill="#d8f2ed"/>
+  <circle cx="355" cy="126" r="15" fill="#d8f2ed"/>
+  <circle cx="376" cy="105" r="10" fill="#d8f2ed"/>
+</svg>
